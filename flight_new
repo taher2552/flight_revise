@@ -7,7 +7,7 @@
       
     "flight": "indigo",
 
-    "depart_city_name": "Ahmedabad",
+    
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -36,7 +36,7 @@
       
     "flight": "indigo",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -65,7 +65,7 @@
       
     "flight": "indigo",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -94,7 +94,7 @@
       
     "flight": "indigo",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -123,7 +123,7 @@
       
     "flight": "vistara",
 
-    "depart_city_name": "Ahmedabad",
+    
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -152,7 +152,7 @@
       
     "flight": "vistara",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -181,7 +181,7 @@
       
     "flight": "vistara",
 
-    "depart_city_name": "Ahmedabad",
+    
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -210,7 +210,7 @@
       
     "flight": "vistara",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -239,7 +239,7 @@
       
     "flight": "akasa",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -268,7 +268,7 @@
       
     "flight": "akasa",
 
-    "depart_city_name": "Ahmedabad",
+    
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -297,7 +297,7 @@
       
     "flight": "akasa",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -326,7 +326,7 @@
       
     "flight": "akasa",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -355,7 +355,7 @@
       
     "flight": "spice jet",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -384,7 +384,7 @@
       
     "flight": "spice jet",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -413,7 +413,7 @@
       
     "flight": "spice jet",
 
-    "depart_city_name": "Ahmedabad",
+    
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -442,7 +442,7 @@
       
     "flight": "spice jet",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -471,7 +471,7 @@
       
     "flight": "emirates",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -500,7 +500,7 @@
       
     "flight": "emirates",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -529,7 +529,7 @@
       
     "flight": "emirates",
 
-    "depart_city_name": "Ahmedabad",
+  
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -558,7 +558,6 @@
       
     "flight": "emirates",
 
-    "depart_city_name": "Ahmedabad",
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -587,7 +586,7 @@
       
     "flight": "air india",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -616,7 +615,7 @@
       
     "flight": "air india",
 
-    "depart_city_name": "Ahmedabad",
+    
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -645,7 +644,7 @@
       
     "flight": "air india",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
@@ -674,7 +673,7 @@
       
     "flight": "air india",
 
-    "depart_city_name": "Ahmedabad",
+   
     "depart_IATA_code": "AMD",
      "depart_ICAO_code": "VAAH",
     "depart_airport_name": "Ahmedabad Airport",
