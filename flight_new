@@ -1,0 +1,704 @@
+{      
+    "data" : [
+
+
+
+    {
+      
+    "flight": "indigo",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "08:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "09:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 4805
+    
+    
+},
+    {
+      
+    "flight": "indigo",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "10:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "11:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 5110
+    
+    
+},
+    {
+      
+    "flight": "indigo",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "15:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "16:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 5300
+    
+    
+},
+    {
+      
+    "flight": "indigo",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "20:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "21:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 5550
+    
+    
+},
+    {
+      
+    "flight": "vistara",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "08:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "10:30",
+    
+    
+    "total_duration": "2hr30min",
+    "price": 4850
+    
+    
+},
+    {
+      
+    "flight": "vistara",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "12:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "14:30",
+    
+    
+    "total_duration": "2hr30min",
+    "price": 5350
+    
+    
+},
+    {
+      
+    "flight": "vistara",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "15:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "17:30",
+    
+    
+    "total_duration": "2hr30min",
+    "price": 5685
+    
+    
+},
+    {
+      
+    "flight": "vistara",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "21:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "23:30",
+    
+    
+    "total_duration": "2hr30min",
+    "price": 6200
+    
+    
+},
+    {
+      
+    "flight": "akasa",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "08:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "10:00",
+    
+    
+    "total_duration": "2hr0min",
+    "price": 3500
+    
+    
+},
+    {
+      
+    "flight": "akasa",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "12:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "14:00",
+    
+    
+    "total_duration": "2hr0min",
+    "price": 3850
+    
+    
+},
+    {
+      
+    "flight": "akasa",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "16:30",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "18:30",
+    
+    
+    "total_duration": "2hr0min",
+    "price": 4265
+    
+    
+},
+    {
+      
+    "flight": "akasa",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "18:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "20:00",
+    
+    
+    "total_duration": "2hr00min",
+    "price": 5520
+    
+    
+},
+    {
+      
+    "flight": "spice jet",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "08:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "09:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 6500
+    
+    
+},
+    {
+      
+    "flight": "spice jet",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "09:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "10:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 6520
+    
+    
+},
+    {
+      
+    "flight": "spice jet",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "15:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "16:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 6880
+    
+    
+},
+    {
+      
+    "flight": "spice jet",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "18:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "19:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 7200
+    
+    
+},
+    {
+      
+    "flight": "emirates",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "7:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "8:15",
+    
+    
+    "total_duration": "1hr15min",
+    "price": 5520
+    
+    
+},
+    {
+      
+    "flight": "emirates",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "09:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "10:15",
+    
+    
+    "total_duration": "1hr15min",
+    "price": 6520
+    
+    
+},
+    {
+      
+    "flight": "emirates",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "15:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "16:15",
+    
+    
+    "total_duration": "1hr15min",
+    "price": 7250
+    
+    
+},
+    {
+      
+    "flight": "emirates",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "18:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "19:15",
+    
+    
+    "total_duration": "1hr15min",
+    "price": 8820
+    
+    
+},
+    {
+      
+    "flight": "air india",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "08:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "09:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 3520
+    
+    
+},
+    {
+      
+    "flight": "air india",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "09:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "10:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 4800
+    
+    
+},
+    {
+      
+    "flight": "air india",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "15:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "16:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 5520
+    
+    
+},
+    {
+      
+    "flight": "air india",
+
+    "depart_city_name": "Ahmedabad",
+    "depart_IATA_code": "AMD",
+     "depart_ICAO_code": "VAAH",
+    "depart_airport_name": "Ahmedabad Airport",
+    
+     
+    "dept_date": "25-12-2022",
+    "dept_time": "18:00",
+    
+    
+    "arrive_city_name": "Bangalore",
+    "arrive_IATA_code": "BLR",
+    "arrive_ICAO_code": "VOBG",
+    "arrive_airport_name": "Bengaluru International Airport",
+   
+    
+    "arrive_date": "25-12-2022",
+    "arrive_time": "19:30",
+    
+    
+    "total_duration": "1hr30min",
+    "price": 6600
+    
+    
+}
+
+    ]
+}
